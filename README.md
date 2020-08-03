@@ -8,4 +8,7 @@
 2) run file1.sh and checkout localhost:3000
 
 
+![Screenshot](ss1.png)
 
+
+![Screenshot](ss2.png)
